@@ -1,0 +1,14 @@
+{
+  "name": "deployments",
+  "version": "0.1.0",
+  "engines": {
+    "node": "14",
+    "npm": "6"
+  },
+  "devDependencies": {
+    "aws-cdk": "1.90.1"
+  },
+  "dependencies": {
+    "@aws-cdk/aws-cloudwatch": "1.90.1"
+  }
+}
