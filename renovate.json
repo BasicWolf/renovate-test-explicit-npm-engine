@@ -9,7 +9,7 @@
 	{
 	  "packageNames": ["node"],
 	  "enabled": false
-	}
+	},
 	  
 	"packagePatterns": ["*"],
 	"managers": ["npm"],
