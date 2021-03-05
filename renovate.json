@@ -6,11 +6,11 @@
 
   "packageRules": [
     {
-      "packagePatterns": ["*"],
-      "managers": ["npm"],
-      "matchPackagePatterns": ["*"],
-      "additionalBranchPrefix": ""
-      "groupName": "NPM packages"
+	"packagePatterns": ["*"],
+	"managers": ["npm"],
+	"matchPackagePatterns": ["*"],
+	"additionalBranchPrefix": "",
+	"groupName": "NPM packages"
     }
   ]
 }
