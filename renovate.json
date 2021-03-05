@@ -6,16 +6,16 @@
 
   "packageRules": [
       {
-	{
-	  "packageNames": ["node"],
-	  "enabled": false
-	},
-	  
 	"packagePatterns": ["*"],
 	"managers": ["npm"],
 	"matchPackagePatterns": ["*"],
 	"additionalBranchPrefix": "",
 	"groupName": "NPM packages"
-    }
+      },
+
+      {
+	  "packageNames": ["node"],
+	  "enabled": false
+      }
   ]
 }
