@@ -6,9 +6,9 @@
     "npm": "6"
   },
   "devDependencies": {
-    "aws-cdk": "1.90.1"
+    "aws-cdk": "1.93.0"
   },
   "dependencies": {
-    "@aws-cdk/aws-cloudwatch": "1.90.1"
+    "@aws-cdk/aws-cloudwatch": "1.93.0"
   }
 }
